@@ -1,0 +1,74 @@
+{
+  "checks": [
+    {
+      "name": "click1: 切到下一个",
+      "ok": true,
+      "detail": "0(meme_01) -> 1(meme_02)"
+    },
+    {
+      "name": "click2: 切到下一个",
+      "ok": true,
+      "detail": "1(meme_02) -> 2(meme_03)"
+    },
+    {
+      "name": "click3: 切到下一个",
+      "ok": true,
+      "detail": "2(meme_03) -> 3(meme_04)"
+    },
+    {
+      "name": "click: 气泡已显示",
+      "ok": true,
+      "detail": "剩余 0.00s"
+    },
+    {
+      "name": "drag: 拖动窗口而不换表情",
+      "ok": true,
+      "detail": "expr=3 位移=60px"
+    },
+    {
+      "name": "wheel: 滚轮缩放",
+      "ok": true,
+      "detail": "1.000 -> 1.060"
+    },
+    {
+      "name": "cycle: 点满一圈回到起点",
+      "ok": true,
+      "detail": "3 -> 3"
+    },
+    {
+      "name": "bubble: 每次切换都刷新气泡",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "render: 能生成 Tk 图像",
+      "ok": true,
+      "detail": "424x479"
+    },
+    {
+      "name": "sound: 音效文件就绪",
+      "ok": true,
+      "detail": "27 个（其中哈基米原声 6 段）"
+    },
+    {
+      "name": "sound: 点击切换触发了音效",
+      "ok": true,
+      "detail": "pad_04 -> pad_05"
+    },
+    {
+      "name": "sound: 静音时不播放",
+      "ok": true,
+      "detail": ""
+    }
+  ],
+  "frames": [
+    "00_initial.png",
+    "01_after_click1.png",
+    "02_after_click2.png",
+    "03_after_click3.png",
+    "04_after_drag.png",
+    "05_after_wheel.png",
+    "06_after_cycle.png"
+  ],
+  "ok": true
+}

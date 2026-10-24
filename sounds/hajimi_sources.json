@@ -1,0 +1,104 @@
+[
+  {
+    "file": "hajimi_01.wav",
+    "rid": "507082560",
+    "title": "哈基米的祭礼-歪嘴曼波 - rap",
+    "src": "https://kw-er.kuwo.cn/60e0eea14d94e7fa643a8694e01d4119/6adc1335/resource/30106/trackmedia/M500004IO9ZB011mld.mp3",
+    "from_s": 134.1,
+    "seconds": 3.4
+  },
+  {
+    "file": "hajimi_02.wav",
+    "rid": "516020824",
+    "title": "哈基米赞歌 - A",
+    "src": "https://kw-er.kuwo.cn/943b19603c71b5a762a7b01e0642d3d0/6adc1336/resource/30106/trackmedia/M5000003bPR41BEvCL.mp3",
+    "from_s": 213.7,
+    "seconds": 3.4
+  },
+  {
+    "file": "hajimi_03.wav",
+    "rid": "489802645",
+    "title": "蓝莲花 (哈基米版) - 林芷伊kiwi",
+    "src": "https://kw-er.kuwo.cn/2693da3d6f2f97d0471a08c525a18466/6adc1337/resource/30106/trackmedia/M500004Ft6PU2zuYBX.mp3",
+    "from_s": 59.9,
+    "seconds": 3.4
+  },
+  {
+    "file": "hajimi_04.wav",
+    "rid": "629862238",
+    "title": "哈基米曼波 - 卡皮巴拉爱睡觉",
+    "src": "https://kw-lv.kuwo.cn/52a2bb3c5d6e66b05f6fb3d876c998f6/6adc1337/resource/30106/trackmedia/M500001ThbTE07pblf.mp3",
+    "from_s": 179.6,
+    "seconds": 3.4
+  },
+  {
+    "file": "hajimi_05.wav",
+    "rid": "522056459",
+    "title": "哈基米：太空曼波【@还给我神ID】 - celeste",
+    "src": "https://kw-er.kuwo.cn/1c9abfa21939942df96f485ba0e77989/6adc133a/resource/30106/trackmedia/long/M500001IiyPv0LuQVr.mp3",
+    "from_s": 615.0,
+    "seconds": 3.4
+  },
+  {
+    "file": "hajimi_06.wav",
+    "rid": "417829141",
+    "title": "哈基米 - 吸猫大王",
+    "src": "https://kw-er.kuwo.cn/08672314738bc23342dde8833c89162f/6adc133d/resource/30106/trackmedia/M5000001eCEl46pQC1.mp3",
+    "from_s": 69.9,
+    "seconds": 3.4
+  },
+  {
+    "file": "pad_01.wav",
+    "label": "私人笑声1",
+    "src": "https://hibikiwtnb.github.io/HajimiPad/audio/%E7%A7%81%E4%BA%BA%E7%AC%91%E5%A3%B01.m4a",
+    "seconds": 1.77
+  },
+  {
+    "file": "pad_02.wav",
+    "label": "私人笑声2",
+    "src": "https://hibikiwtnb.github.io/HajimiPad/audio/%E7%A7%81%E4%BA%BA%E7%AC%91%E5%A3%B02.m4a",
+    "seconds": 1.43
+  },
+  {
+    "file": "pad_03.wav",
+    "label": "私人笑声3",
+    "src": "https://hibikiwtnb.github.io/HajimiPad/audio/%E7%A7%81%E4%BA%BA%E7%AC%91%E5%A3%B03.m4a",
+    "seconds": 1.75
+  },
+  {
+    "file": "pad_04.wav",
+    "label": "哈基米1",
+    "src": "https://hibikiwtnb.github.io/HajimiPad/audio/%E5%93%88%E5%9F%BA%E7%B1%B31.m4a",
+    "seconds": 1.19
+  },
+  {
+    "file": "pad_05.wav",
+    "label": "哈基米2",
+    "src": "https://hibikiwtnb.github.io/HajimiPad/audio/%E5%93%88%E5%9F%BA%E7%B1%B32.m4a",
+    "seconds": 1.15
+  },
+  {
+    "file": "pad_06.wav",
+    "label": "南北绿豆",
+    "src": "https://hibikiwtnb.github.io/HajimiPad/audio/%E5%8D%97%E5%8C%97%E7%BB%BF%E8%B1%86.m4a",
+    "seconds": 1.71
+  },
+  {
+    "file": "pad_07.wav",
+    "label": "曼波",
+    "src": "https://hibikiwtnb.github.io/HajimiPad/audio/%E6%9B%BC%E6%B3%A2.m4a",
+    "seconds": 0.75
+  },
+  {
+    "file": "pad_08.wav",
+    "label": "wow",
+    "src": "https://hibikiwtnb.github.io/HajimiPad/audio/wow.m4a",
+    "seconds": 1.02
+  },
+  {
+    "file": "pad_09.wav",
+    "label": "欧耶",
+    "src": "https://hibikiwtnb.github.io/HajimiPad/audio/%E6%AC%A7%E8%80%B6.m4a",
+    "seconds": 0.9
+  }
+]
